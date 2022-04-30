@@ -1,0 +1,17 @@
+{
+    "name": "jannedevos/laravel-analytics",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jannedevos\\LaravelAnalytics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Janne de Vos",
+            "email": "Janne@ecominsight.nl"
+        }
+    ],
+    "require": {}
+}
